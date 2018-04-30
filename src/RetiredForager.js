@@ -1,5 +1,4 @@
 var RetiredForagerBee = function() {
-  Grub.call(this);
   ForagerBee.call(this);
   this.age = 40;
   this.job = 'gamble';
